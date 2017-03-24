@@ -2,7 +2,7 @@
 <manifest>
   <remote  name="aosp"
            fetch="https://android.googlesource.com" />
-  <default revision="refs/tags/android-6.0.1_r55"
+  <default revision="refs/tags/android-6.0.1_r79"
            remote="aosp"
            sync-j="4" />
   <remote  name="a4b"
